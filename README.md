@@ -1,6 +1,6 @@
-# Sentiment Analysis of Bengali Facebook Text using ML & DL
+# Sentiment Analysis of Bengali Facebook Text using Machine Learning and Deep Learning Models
 
-This project explores **sentiment analysis on Bengali Facebook comments** using both traditional **machine learning** and advanced **deep learning** models. The goal is to classify user comments as positive, negative, or neutral, tackling challenges related to the morphological complexity of the Bengali language.
+This project explores sentiment analysis on Bengali Facebook comments using both traditional machine learning and advanced deep learning models. The goal is to classify user comments as positive, negative, or neutral, tackling challenges related to the morphological complexity of the Bengali language.
 
 ## 🧠 Models Implemented
 
